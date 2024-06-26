@@ -1,0 +1,6 @@
+name: FrameDetails
+version: '${project.version}'
+main: pl.framedetails.FrameDetails
+api-version: '1.19'
+authors: [Assasin98980]
+description: Get item details by clicking item frame
